@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Projects/agentic-patterns/tex/diagrams/out"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"powershell.cwd": "vscode-image-gallery"
+	}
+}

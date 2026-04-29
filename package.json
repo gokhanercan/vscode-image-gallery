@@ -1,9 +1,9 @@
 {
-	"name": "vscode-image-gallery",
+	"name": "vscode-image-gallery-gokhan",
 	"displayName": "Image Gallery (Gokhan)",
 	"description": "Improve image browsing experience, especially for remote development.",
 	"version": "1.2.2",
-	"publisher": "GeriYoco",
+	"publisher": "gokhan",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/geriyoco/vscode-image-gallery"
